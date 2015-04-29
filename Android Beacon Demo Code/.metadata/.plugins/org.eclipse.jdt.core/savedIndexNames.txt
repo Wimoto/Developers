@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/Users/Lorenzo/Documents/Developers/Android Beacon Demo Code/.metadata/.plugins/org.eclipse.jdt.core
+765453901.index
